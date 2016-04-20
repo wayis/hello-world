@@ -1,4 +1,5 @@
 'use strict';
 
-var printer = require('./src/printHelloWorld');
-printer.printHelloWorld();
+var utils = require('./src/utils');
+
+console.log('Format toto: ' + utils.format('toto'));
