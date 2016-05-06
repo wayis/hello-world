@@ -1,2 +1,2 @@
 About licence project.
-Test
+It's not a test.
